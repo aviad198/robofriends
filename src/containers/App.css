@@ -1,0 +1,13 @@
+@font-face
+{
+    font-family: 'Patchy Robots Font';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Patchy Robots Font'), url('Patchy Robots.woff') format('woff');
+}
+
+h1 {
+    font-family: 'Patchy Robots Font';
+    font-weight: 200;
+    color: #0ccac4;
+}
